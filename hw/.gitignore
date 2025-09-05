@@ -1,0 +1,2 @@
+*.pdf # keep xopp source, not pdf binary
+.*.autosave.xopp
